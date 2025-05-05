@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "lwjameson",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-05T18:19:20.849Z",
-    "updated_at": "2025-05-05T18:19:20.849Z"
-  }
+    "updated_at": "2025-05-05T18:19:20.849Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "e3839604-bd35-4741-8037-c6486ebb892e": {
+      "content": [],
+      "created_at": "2025-05-05T18:19:20.882Z",
+      "created_by": "lwjameson",
+      "title": "Test Pasting",
+      "updated_at": "2025-05-05T18:19:20.882Z",
+      "updated_by": "lwjameson",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "e3839604-bd35-4741-8037-c6486ebb892e"
+  ]
 }
